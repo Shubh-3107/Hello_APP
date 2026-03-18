@@ -1,9 +1,8 @@
-class ArrayList{
-    public static void main(String[] args) {
-        
-        String msg = "This is main branch.";
+class Hello_APP{
+    
+    public static void main(String[] args){
 
-        System.out.println(msg);
+        System.out.println("Hello, World!");
     }
 
 }
